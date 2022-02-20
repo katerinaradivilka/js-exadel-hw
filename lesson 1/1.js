@@ -1,3 +1,7 @@
+/* Given an array with an online store user’s data. 
+You need to iterate through the array and 
+print in the console only users who registered on October 9 and 10, 2021. */
+
 const users = [
   {
       firstName: 'John',
