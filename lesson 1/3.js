@@ -8,7 +8,7 @@ let sum = 0;
 for (let index = 0; index < prices.length; index++) {
   sum = sum + prices[index];
 }
-let avg = sum / prices.length;
+const avg = sum / prices.length;
 
 console.log("Avg = " + avg);
 console.log("Sum = " + sum);
